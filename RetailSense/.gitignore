@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+*.db
+*.sqlite*
+data/*.csv
+data/*.xlsx
+!data/.gitkeep
+
+data/.session-secret
